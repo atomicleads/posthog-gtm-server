@@ -1,0 +1,5 @@
+homepage: "https://tagticians.com"
+documentation: "https://github.com/tagticians/posthog-gtm-template-server"
+versions:
+  - sha: 17cace76ffc165e20fcb29931ddff1333ff830fe
+    changeNotes: Intial version, includes Custom Events and Page Views for PostHog Cloud EU and US, and Self Hosted.
